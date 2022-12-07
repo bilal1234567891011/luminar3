@@ -3,6 +3,7 @@ img{
 }
 .nav-link{
     color: black;
+    
 
 }
 .nav-link:hover{
@@ -18,4 +19,38 @@ img{
 #s1{
     color: blueviolet;
 }
+#rr{
+    opacity: 0.4;
+    
+    
+}
+button{
+    background-color: red;
+}
 
+#jk{
+    margin-top: 15px;
+    margin-left: 5px;
+}
+   p{
+    margin-bottom: 7rem;
+    margin-left: 5px;
+    font-size: larger;
+   } 
+   #kk{
+    margin-left: -238px;
+    margin-top: -4px;
+    margin-bottom: 24px;
+    font-size: 4rem;
+   }
+   #mq{
+    margin-bottom: 2rem;
+    margin-left: -482px;
+    font-size: medium;
+   }
+   #aq
+   {
+    margin-left: -467px;
+    font-size: 4rem;
+   }
+                            
