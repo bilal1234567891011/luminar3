@@ -24,9 +24,7 @@ img{
     
     
 }
-button{
-    background-color: red;
-}
+
 
 #jk{
     margin-top: 15px;
@@ -53,4 +51,34 @@ button{
     margin-left: -467px;
     font-size: 4rem;
    }
-                            
+   p{
+    
+   }
+     .highlight-word-color{
+       color: rgb(142, 137, 146); 
+     }   
+     {
+        width: 300px;
+     }    
+     .po{
+        width: 900px;
+
+     }
+     #mq{
+        color: white;
+     }
+     @media(max-width:100px)
+     {
+.po{
+   font-size: larger; 
+}
+#mq{
+    color: white;
+}
+     }
+     #buttoncourse:hover{
+        background-color: #5e068a;
+        color: white;
+        text-align: center;
+       
+     }
